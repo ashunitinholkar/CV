@@ -1,0 +1,152 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #E4F9F5;
+  font-size: 100%
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+.sk{
+  display: inline-block;
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.sk2{
+  display: inline-block;
+  width: 50%;
+  text-align: right;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.pic2{
+  border-radius: 100%;
+  width: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.a1{
+  display: inline-block;
+  width: 90px;
+}
+
+.pic1{
+  border-radius: 100%;
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.top{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.c2{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.c1{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.pic{
+  border-radius: 100%;
+}
+
+.middle {
+  margin-bottom: 30px;
+}
+
+.bottom{
+  background-color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+.cop{
+  color: #EAF6F6;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 3%;
+}
+
+.button {
+  background-color: #11999E;
+  border: solid;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram {
+  background: #ff69b4;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.but{
+  background-color: #11999E;
+  text-align: center;
+  color: white;
+}
+
+.inp{
+  color: grey;
+}
